@@ -66,12 +66,6 @@ I'm a passionate and driven student developer from India, with a strong interest
 
 ---
 
-### 🎮 Interactive Fun: Play Tic-Tac-Toe!
-<p align="center">
-  (The game board will appear here after you set up the Action)
-</p>
-
----
 
 ### 🧠 My Coding Profiles
 
@@ -93,15 +87,3 @@ I'm a passionate and driven student developer from India, with a strong interest
 </p>
 
 ---
-
-### ♨️ My GitHub Heat Map & Contribution Graph
-
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Saicharan7777&theme=dark&background=00000000" alt="3D Contribution Graph"/>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saicharan7777/Saicharan7777/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saicharan7777/Saicharan7777/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Saicharan7777/Saicharan7777/output/github-contribution-grid-snake.svg">
-</picture>
