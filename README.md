@@ -3,7 +3,7 @@
 <h1 align="left">
  ¡Hola! 👋 I'm Sai Charan Maddimsetti
 </h1>
-<div class="tenor-gif-embed" data-postid="15306744" data-share-method="host" data-aspect-ratio="0.971875" data-width="100%"><a href="https://tenor.com/view/doraemon-bow-bowing-respect-gif-15306744">Doraemon Bow Sticker</a>from <a href="https://tenor.com/search/doraemon-stickers">Doraemon Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<a href="https://tenor.com/view/doraemon-bow-bowing-respect-gif-15306744"></a><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Saicharan7777&label=PROFILE+VIEWS&color=00aaff&style=flat-square" alt="Profile views"/>
