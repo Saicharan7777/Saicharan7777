@@ -3,7 +3,10 @@
 <h1 align="left">
  ¡Hola! 👋 I'm Sai Charan Maddimsetti
 </h1>
-<a href="https://tenor.com/view/doraemon-bow-bowing-respect-gif-15306744"></a><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<p align="center">
+  <img src="https://media.tenor.com/images/74c97a7f57e22f88c76c5e6c9d2f3c3e/tenor.gif" alt="Doraemon Bow" width="300"/>
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Saicharan7777&label=PROFILE+VIEWS&color=00aaff&style=flat-square" alt="Profile views"/>
@@ -59,7 +62,7 @@ I'm a passionate and driven student developer from India, with a strong interest
 
 <p align="center">
   (My WakaTime stats will show up here)
-  </p>
+</p>
 
 ---
 
@@ -67,6 +70,7 @@ I'm a passionate and driven student developer from India, with a strong interest
 <p align="center">
   (The game board will appear here after you set up the Action)
 </p>
+
 ---
 
 ### 🧠 My Coding Profiles
