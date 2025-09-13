@@ -1,4 +1,8 @@
-<img src="https://i.postimg.cc/9QjY9p7M/doraemon.png" width="150" align="right">
+<p align="center">
+  <a href="https://github.com/nikhilcharan-dev">
+    <img src="https://64.media.tumblr.com/eb8e76984014d0db1e53ec7795f03ec0/1924a8282a163135-34/s540x810/1884baa6bdd0cfc5bfd175dad4131c9f438cc0de.gifv" alt="MasterHead" />
+  </a>
+</p>
 
 <h1 align="left">
  ¡Hola! 👋 I'm Sai Charan Maddimsetti
