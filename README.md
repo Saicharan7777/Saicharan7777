@@ -1,11 +1,11 @@
 <img src="https://i.postimg.cc/9QjY9p7M/doraemon.png" width="150" align="right">
 
 <h1 align="left">
-  ہیلو! 👋 I'm Sai Charan Maddimsett
+ ¡Hola! 👋 I'm Sai Charan Maddimsetti
 </h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=700&color=00FFFF&center=false&vCenter=true&width=500&lines=Aspiring+Full+Stack+Developer;Problem+Solver+%7C+DSA+Enthast;Learning+Node.js+%26+Cloud+Tech" alt="Animated Typing SVG" />
+  <img src="https://tenor.com/bcn88.gif" alt="¡Hola!" />
 </p>
 
 <p align="left">
