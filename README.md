@@ -1,7 +1,7 @@
 <img src="https://i.postimg.cc/9QjY9p7M/doraemon.png" width="150" align="right">
 
 <h1 align="left">
-  Hi there / Hallo! 👋 I'm Sai Charan Maddimsetti
+  ہیلو! 👋 I'm Sai Charan Maddimsett
 </h1>
 
 <p align="left">
