@@ -1,5 +1,4 @@
-<p align="center">
-</p>
+<p align="center"><img src="download.gif" width="600px"></p> 
 
 <h1 align="left">
  ¡Hola! 👋 I'm Sai Charan Maddimsetti
